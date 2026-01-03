@@ -1,4 +1,4 @@
-# High-Level Architecture (JavaScript-centric)
+## High-Level Architecture (JavaScript-centric)
 Frontend → React (UI, learning content, dashboards)
 
 Backend → Node.js + Express (APIs, auth, logic)
