@@ -12,6 +12,7 @@ Hosting → Vercel (frontend) + Render/Railway (backend)
 ## Basic Folder Structure
 
 Root Project
+```text
 empowerment/
 │
 ├── client/        # Frontend (React)
@@ -19,6 +20,7 @@ empowerment/
 ├── README.md
 ├── .gitignore
 
+```text
 Frontend(React)
 client/
 │
@@ -53,6 +55,7 @@ client/
 │
 ├── package.json
 
+```text
 Backend Structure (Node.js + Express)
 server/
 │
